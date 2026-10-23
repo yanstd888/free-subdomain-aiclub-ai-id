@@ -8,6 +8,10 @@
     &nbsp;·&nbsp;
     <a href="https://aiclub.ai.id/panduan/setup/">Setup Guide</a>
   </p>
+  <p>
+    <a href="https://github.com/sponsors/yanstd888"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge" alt="Sponsor AICLUB on GitHub Sponsors"></a>
+    <a href="https://aiclub.ai.id/dashboard.html#tab-don"><img src="https://img.shields.io/badge/Donate-AICLUB-ffd23f?style=for-the-badge&labelColor=111111" alt="Donate to AICLUB"></a>
+  </p>
 </div>
 
 ![AICLUB free subdomain service homepage with .ai.id, .web.id, .cv, and .eu.cc domain options](preview/homepage.png)
@@ -28,31 +32,31 @@ AICLUB is useful when you are looking for:
 
 ## Live Domain Catalog
 
-The domains below are live links. Open any one to visit the AICLUB website through that domain and explore the available subdomain workflow.
+The domains below are live links. Click any domain name to visit the AICLUB website through that domain and explore the available subdomain workflow.
 
 <table>
   <tr>
-    <td width="33%" valign="top"><a href="https://aiclub.ai.id/"><strong>aiclub.ai.id</strong></a><br><sub>AI projects, SaaS, developer tools</sub><br><br><a href="https://aiclub.ai.id/">Open website</a></td>
-    <td width="33%" valign="top"><a href="https://std.ai.id/"><strong>std.ai.id</strong></a><br><sub>Student projects and experiments</sub><br><br><a href="https://std.ai.id/">Open website</a></td>
-    <td width="33%" valign="top"><a href="https://is-a.cv/"><strong>is-a.cv</strong></a><br><sub>Resumes, portfolios, personal branding</sub><br><br><a href="https://is-a.cv/">Open website</a></td>
+    <td width="33%" valign="top"><a href="https://aiclub.ai.id/"><strong>aiclub.ai.id</strong></a><br><sub>AI projects, SaaS, developer tools</sub></td>
+    <td width="33%" valign="top"><a href="https://std.ai.id/"><strong>std.ai.id</strong></a><br><sub>Student projects and experiments</sub></td>
+    <td width="33%" valign="top"><a href="https://is-a.cv/"><strong>is-a.cv</strong></a><br><sub>Resumes, portfolios, personal branding</sub></td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://tour.web.id/"><strong>tour.web.id</strong></a><br><sub>Travel guides and local destinations</sub><br><br><a href="https://tour.web.id/">Open website</a></td>
-    <td valign="top"><a href="https://panen.web.id/"><strong>panen.web.id</strong></a><br><sub>Agriculture, food, farming, local products</sub><br><br><a href="https://panen.web.id/">Open website</a></td>
-    <td valign="top"><a href="https://promptku.web.id/"><strong>promptku.web.id</strong></a><br><sub>AI prompts, automation, creator tools</sub><br><br><a href="https://promptku.web.id/">Open website</a></td>
+    <td valign="top"><a href="https://tour.web.id/"><strong>tour.web.id</strong></a><br><sub>Travel guides and local destinations</sub></td>
+    <td valign="top"><a href="https://panen.web.id/"><strong>panen.web.id</strong></a><br><sub>Agriculture, food, farming, local products</sub></td>
+    <td valign="top"><a href="https://promptku.web.id/"><strong>promptku.web.id</strong></a><br><sub>AI prompts, automation, creator tools</sub></td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://dataset.web.id/"><strong>dataset.web.id</strong></a><br><sub>Data projects, research, analytics</sub><br><br><a href="https://dataset.web.id/">Open website</a></td>
-    <td valign="top"><a href="https://kids.web.id/"><strong>kids.web.id</strong></a><br><sub>Educational and family-friendly projects</sub><br><br><a href="https://kids.web.id/">Open website</a></td>
-    <td valign="top"><a href="https://roast.web.id/"><strong>roast.web.id</strong></a><br><sub>Reviews, communities, commentary</sub><br><br><a href="https://roast.web.id/">Open website</a></td>
+    <td valign="top"><a href="https://dataset.web.id/"><strong>dataset.web.id</strong></a><br><sub>Data projects, research, analytics</sub></td>
+    <td valign="top"><a href="https://kids.web.id/"><strong>kids.web.id</strong></a><br><sub>Educational and family-friendly projects</sub></td>
+    <td valign="top"><a href="https://roast.web.id/"><strong>roast.web.id</strong></a><br><sub>Reviews, communities, commentary</sub></td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://kripto.web.id/"><strong>kripto.web.id</strong></a><br><sub>Crypto, blockchain, and Web3 projects</sub><br><br><a href="https://kripto.web.id/">Open website</a></td>
-    <td valign="top"><a href="https://clubai.eu.cc/"><strong>clubai.eu.cc</strong></a><br><sub>AI communities and international projects</sub><br><br><a href="https://clubai.eu.cc/">Open website</a></td>
-    <td valign="top"><a href="https://is-a.eu.cc/"><strong>is-a.eu.cc</strong></a><br><sub>Developer identities and open-source profiles</sub><br><br><a href="https://is-a.eu.cc/">Open website</a></td>
+    <td valign="top"><a href="https://kripto.web.id/"><strong>kripto.web.id</strong></a><br><sub>Crypto, blockchain, and Web3 projects</sub></td>
+    <td valign="top"><a href="https://clubai.eu.cc/"><strong>clubai.eu.cc</strong></a><br><sub>AI communities and international projects</sub></td>
+    <td valign="top"><a href="https://is-a.eu.cc/"><strong>is-a.eu.cc</strong></a><br><sub>Developer identities and open-source profiles</sub></td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://t0ko.eu.cc/"><strong>t0ko.eu.cc</strong></a><br><sub>Online shops, product pages, catalogs</sub><br><br><a href="https://t0ko.eu.cc/">Open website</a></td>
+    <td valign="top"><a href="https://t0ko.eu.cc/"><strong>t0ko.eu.cc</strong></a><br><sub>Online shops, product pages, catalogs</sub></td>
   </tr>
 </table>
 
