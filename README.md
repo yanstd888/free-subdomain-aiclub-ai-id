@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>AICLUB — Free Subdomains on .AI.ID, .WEB.ID, .CV & More</h1>
+  <h1>AICLUB.AI.ID <BR> Free Subdomains on .AI.ID, .WEB.ID, .CV & More</h1>
   <p><strong>Find a memorable free subdomain for your website, portfolio, project, startup, or online community.</strong></p>
   <p>
     <a href="https://aiclub.ai.id/">Live Website</a>
