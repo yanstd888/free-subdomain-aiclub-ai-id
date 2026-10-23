@@ -28,25 +28,35 @@ AICLUB is useful when you are looking for:
 
 ## Live Domain Catalog
 
-The list below is a current availability snapshot from AICLUB's public domain catalog. Usage can change as claims are processed; the live catalog is the source of truth.
+The domains below are live links. Open any one to visit the AICLUB website through that domain and explore the available subdomain workflow.
 
-| Base domain | Current usage | Good for |
-|---|---:|---|
-| `aiclub.ai.id` | 12 / 180 | AI projects, SaaS, developer tools |
-| `std.ai.id` | 0 / 180 | Student projects, learning, experiments |
-| `is-a.cv` | 0 / 180 | Resumes, portfolios, personal branding |
-| `tour.web.id` | 0 / 180 | Travel guides, tourism, local destinations |
-| `panen.web.id` | 0 / 180 | Agriculture, food, farming, local products |
-| `promptku.web.id` | 0 / 180 | AI prompts, automation, creator tools |
-| `dataset.web.id` | 2 / 180 | Data projects, research, analytics |
-| `kids.web.id` | 0 / 180 | Educational and family-friendly projects |
-| `roast.web.id` | 0 / 180 | Reviews, communities, commentary |
-| `kripto.web.id` | 0 / 180 | Crypto, blockchain, and Web3 projects |
-| `clubai.eu.cc` | 0 / 180 | AI communities and international projects |
-| `is-a.eu.cc` | 0 / 180 | Developer identities and open-source profiles |
-| `t0ko.eu.cc` | 0 / 180 | Online shops, product pages, and catalogs |
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="https://aiclub.ai.id/"><strong>aiclub.ai.id</strong></a><br><sub>AI projects, SaaS, developer tools</sub><br><br><a href="https://aiclub.ai.id/">Open website</a></td>
+    <td width="33%" valign="top"><a href="https://std.ai.id/"><strong>std.ai.id</strong></a><br><sub>Student projects and experiments</sub><br><br><a href="https://std.ai.id/">Open website</a></td>
+    <td width="33%" valign="top"><a href="https://is-a.cv/"><strong>is-a.cv</strong></a><br><sub>Resumes, portfolios, personal branding</sub><br><br><a href="https://is-a.cv/">Open website</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://tour.web.id/"><strong>tour.web.id</strong></a><br><sub>Travel guides and local destinations</sub><br><br><a href="https://tour.web.id/">Open website</a></td>
+    <td valign="top"><a href="https://panen.web.id/"><strong>panen.web.id</strong></a><br><sub>Agriculture, food, farming, local products</sub><br><br><a href="https://panen.web.id/">Open website</a></td>
+    <td valign="top"><a href="https://promptku.web.id/"><strong>promptku.web.id</strong></a><br><sub>AI prompts, automation, creator tools</sub><br><br><a href="https://promptku.web.id/">Open website</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://dataset.web.id/"><strong>dataset.web.id</strong></a><br><sub>Data projects, research, analytics</sub><br><br><a href="https://dataset.web.id/">Open website</a></td>
+    <td valign="top"><a href="https://kids.web.id/"><strong>kids.web.id</strong></a><br><sub>Educational and family-friendly projects</sub><br><br><a href="https://kids.web.id/">Open website</a></td>
+    <td valign="top"><a href="https://roast.web.id/"><strong>roast.web.id</strong></a><br><sub>Reviews, communities, commentary</sub><br><br><a href="https://roast.web.id/">Open website</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://kripto.web.id/"><strong>kripto.web.id</strong></a><br><sub>Crypto, blockchain, and Web3 projects</sub><br><br><a href="https://kripto.web.id/">Open website</a></td>
+    <td valign="top"><a href="https://clubai.eu.cc/"><strong>clubai.eu.cc</strong></a><br><sub>AI communities and international projects</sub><br><br><a href="https://clubai.eu.cc/">Open website</a></td>
+    <td valign="top"><a href="https://is-a.eu.cc/"><strong>is-a.eu.cc</strong></a><br><sub>Developer identities and open-source profiles</sub><br><br><a href="https://is-a.eu.cc/">Open website</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://t0ko.eu.cc/"><strong>t0ko.eu.cc</strong></a><br><sub>Online shops, product pages, catalogs</sub><br><br><a href="https://t0ko.eu.cc/">Open website</a></td>
+  </tr>
+</table>
 
-**13 base domains are currently listed as available.** Check the live catalog before claiming a name because capacity and availability can change.
+**13 live base-domain options are listed above.** Availability can change, so use the live catalog before claiming a name.
 
 ## Website Preview
 
