@@ -90,6 +90,10 @@ The domains below are live links. Click any domain name to visit the AICLUB webs
 
 AICLUB does not replace your hosting provider. It gives you the hostname and DNS workflow, while your website remains hosted on the platform you choose.
 
+## Support AICLUB
+
+Help keep the free subdomain service running by sponsoring the project on GitHub or donating through the AICLUB dashboard. Support helps cover domain renewals, DNS infrastructure, edge proxy costs, and future domain expansion.
+
 ## Bahasa Indonesia
 
 AICLUB adalah layanan **subdomain gratis** untuk kreator, developer, pelajar, startup, komunitas, dan bisnis kecil. Pilih alamat website yang singkat dan mudah diingat, lalu hubungkan ke Cloudflare Pages, GitHub Pages, Vercel, Netlify, atau server VPS sendiri.
