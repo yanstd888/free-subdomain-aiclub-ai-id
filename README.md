@@ -81,6 +81,23 @@ The domains below are live links. Click any domain name to visit the AICLUB webs
   </tr>
 </table>
 
+## Quick start
+
+Clone this lightweight showcase repository:
+
+```bash
+git clone https://github.com/yanstd888/free-subdomain-aiclub-ai-id.git
+cd free-subdomain-aiclub-ai-id
+```
+
+Fetch the live domain catalog without installing a package:
+
+```bash
+curl -fsSL https://aiclub.ai.id/api/domains-public
+```
+
+Then open the [live domain catalog](https://aiclub.ai.id/domains/) and choose a base domain for your website.
+
 ## How It Works
 
 1. **Choose a base domain** from the live catalog.
@@ -112,6 +129,10 @@ Pilihan domain yang tersedia mencakup `.ai.id`, `.web.id`, `.cv`, dan `.eu.cc`. 
 AICLUB helps people discover practical free subdomain options for searches such as **free subdomain**, **free domain name alternative**, **.ai.id subdomain**, **.web.id subdomain**, **custom domain for GitHub Pages**, **Vercel custom subdomain**, **Netlify custom domain**, **Cloudflare Pages domain**, and **DNS routing for a personal website**.
 
 The domain catalog is designed to grow, so new base domains can appear in the live website without changing this showcase repository.
+
+## License
+
+This showcase repository is released under the [MIT License](LICENSE).
 
 ## Links
 
