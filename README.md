@@ -101,6 +101,16 @@ The domains below are live links. Click any domain name to visit the AICLUB webs
   </tr>
 </table>
 
+## Panduan Lengkap & Subdomain Aktif
+
+- **Panduan lengkap:** [Setup Guide AICLUB](https://aiclub.ai.id/panduan/setup/) — langkah DNS untuk Vercel, Netlify, Cloudflare Pages, GitHub Pages, dan VPS.
+- **Cek subdomain yang benar-benar aktif:** [Active Subdomains](https://aiclub.ai.id/active-subdomains/) atau [API Active Subdomains](https://aiclub.ai.id/api/active-subdomains). Daftar ini hanya menampilkan subdomain terverifikasi yang saat ini merespons online.
+
+## Complete Setup Guide & Live Subdomains
+
+- **Complete guide:** [AICLUB Setup Guide](https://aiclub.ai.id/panduan/setup/) — DNS setup for Vercel, Netlify, Cloudflare Pages, GitHub Pages, and VPS.
+- **Check genuinely active subdomains:** [Active Subdomains](https://aiclub.ai.id/active-subdomains/) or the [Active Subdomains API](https://aiclub.ai.id/api/active-subdomains). The list contains only verified subdomains currently responding online.
+
 ## Quick start
 
 Clone this lightweight showcase repository:
