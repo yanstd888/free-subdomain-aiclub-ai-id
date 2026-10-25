@@ -7,6 +7,8 @@
     <a href="https://aiclub.ai.id/domains/">Live Domain Catalog</a>
     &nbsp;·&nbsp;
     <a href="https://aiclub.ai.id/panduan/setup/">Setup Guide</a>
+    &nbsp;·&nbsp;
+    <a href="https://aiclub.ai.id/active-subdomains/">Active Subdomains</a>
   </p>
   <p>
     <a href="https://github.com/sponsors/yanstd888"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge" alt="Sponsor AICLUB on GitHub Sponsors"></a>
@@ -29,6 +31,24 @@ AICLUB is useful when you are looking for:
 - a custom subdomain for GitHub Pages, Vercel, Netlify, Cloudflare Pages, or a VPS;
 - a free domain-name alternative for personal branding, product launches, and online communities;
 - a simple DNS and custom-domain workflow without buying a new domain first.
+
+## Complete Setup Guide & Verified Active Subdomains
+
+AICLUB now has a complete, bilingual setup guide for connecting a claimed subdomain to **Vercel, Netlify, Cloudflare Pages, GitHub Pages, or a VPS/server**. It includes the real Vercel flow: deploy the project, add the claimed AICLUB subdomain, copy Vercel's CNAME value, save it in AICLUB, and wait for **Valid Configuration**.
+
+- [Open the complete setup guide](https://aiclub.ai.id/panduan/setup/)
+- [Check verified active subdomains](https://aiclub.ai.id/active-subdomains/)
+- [Read the active-subdomains API](https://aiclub.ai.id/api/active-subdomains)
+
+The active-subdomains page is API-driven and shows only subdomains that have a recent health check and are currently marked **ONLINE**. Redirect destinations are checked before they are listed. The page is the source of truth because availability and health status can change after this README snapshot.
+
+**Latest public check (October 26, 2026):** the live page returned **9 verified active subdomains**.
+
+## Panduan Lengkap & Subdomain Aktif
+
+AICLUB sudah menyediakan panduan setup lengkap dalam bahasa Indonesia dan English untuk menghubungkan subdomain yang sudah diklaim ke **Vercel, Netlify, Cloudflare Pages, GitHub Pages, atau VPS/server sendiri**. Alur Vercel di panduan sudah diuji: deploy project, tambahkan subdomain AICLUB, salin value CNAME dari Vercel, simpan di AICLUB, lalu tunggu sampai statusnya **Valid Configuration**.
+
+Halaman [Subdomain Aktif](https://aiclub.ai.id/active-subdomains/) juga sudah tersedia untuk mengecek subdomain yang benar-benar online. Daftar tersebut hanya menampilkan record dengan pemeriksaan kesehatan terbaru dan status **ONLINE**; untuk redirect, tujuan redirect diperiksa terlebih dahulu.
 
 ## Live Domain Catalog
 
