@@ -118,7 +118,7 @@ Provisioning_Method: "Instant Web Dashboard (No Git Pull Request waiting time)"
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://aiclub.ai.id/domains/">
-        <img src="./preview/domains.png" alt="AICLUB live domain catalog with available base domains" width="100%" />
+        <img src="./preview/domain-catalog.png" alt="AICLUB live domain catalog with available base domains" width="100%" />
       </a>
       <br />
       <strong><a href="https://aiclub.ai.id/domains/">2. Live Domain Catalog</a></strong>
